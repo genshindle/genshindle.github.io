@@ -1,0 +1,1 @@
+import{_ as e,u as t,c as o,o as n}from"./index-5LrGzPrM.js";const s={data(){return{store:t()}},methods:{},mounted(){}};function r(a,c,p,u,_,d){return n(),o("h1",null,"In Development")}const m=e(s,[["render",r]]);export{m as default};

@@ -1,1 +1,0 @@
-import{_ as o,c,o as s,p as t,f as a,b as r}from"./index-DC8Co7kt.js";const _={},d=e=>(t("data-v-7e53289c"),e=e(),a(),e),p={class:"error-wrapper"},n=d(()=>r("h1",null,"Error 404",-1)),i=[n];function f(e,h){return s(),c("div",p,i)}const u=o(_,[["render",f],["__scopeId","data-v-7e53289c"]]);export{u as default};
